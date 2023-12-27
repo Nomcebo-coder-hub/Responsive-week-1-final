@@ -6,20 +6,20 @@ h3 {
   color: rgb(84, 83, 83);
 }
 
+.find-me {
+  display: flex;
+  border: 1px solid blueviolet;
+  padding: 20px 15px;
+  margin: 20px;
+  text-decoration: none;
+}
+
 .about-me {
   color: white;
   background: blueviolet;
-  padding: 20px 15px;
-  margin: 20px;
-  border: 1px solid blueviolet;
-  text-decoration: none;
 }
 
 .info-me {
   color: blueviolet;
   background: white;
-  padding: 20px 15px;
-  margin: 20px;
-  border: 1px solid blueviolet;
-  text-decoration: none;
 }
