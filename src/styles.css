@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+h3 {
+  color: rgb(68, 67, 67);
+}
+
+.about-me {
+  color: white;
+  background: blueviolet;
+  padding: 15px 20px;
+  display: block;
+  margin: auto;
+  border: 1px solid blueviolet;
+  border-radius: 30px;
+  transition: all 200ms ease-in-out;
+}
+
+.info-me {
+  color: blueviolet;
+  background: white;
+  padding: 15px 20px;
+  display: block;
+  margin: auto;
+  border: 1px solid blueviolet;
+  border-radius: 30px;
+  transition: all 200ms ease-in-out;
+}
