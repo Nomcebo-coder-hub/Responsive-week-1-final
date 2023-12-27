@@ -13,7 +13,6 @@ h3 {
   margin: 20px;
   border: 1px solid blueviolet;
   text-decoration: none;
-  transition: all 200ms ease-in-out;
 }
 
 .info-me {
@@ -23,5 +22,4 @@ h3 {
   margin: 20px;
   border: 1px solid blueviolet;
   text-decoration: none;
-  transition: all 200ms ease-in-out;
 }
