@@ -6,7 +6,7 @@ h3 {
   color: rgb(84, 83, 83);
 }
 
-.find-me {
+.find-me a {
   display: flex;
   border: 1px solid blueviolet;
   padding: 20px 15px;
