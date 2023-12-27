@@ -3,27 +3,25 @@ body {
 }
 
 h3 {
-  color: rgb(68, 67, 67);
+  color: rgb(84, 83, 83);
 }
 
 .about-me {
   color: white;
   background: blueviolet;
-  padding: 15px 20px;
-  display: block;
-  margin: 0 auto;
+  padding: 20px 15px;
+  margin: 20px;
   border: 1px solid blueviolet;
-  border-radius: 30px;
+  text-decoration: none;
   transition: all 200ms ease-in-out;
 }
 
 .info-me {
   color: blueviolet;
   background: white;
-  padding: 15px 20px;
-  display: block;
-  margin: 0 auto;
+  padding: 20px 15px;
+  margin: 20px;
   border: 1px solid blueviolet;
-  border-radius: 30px;
+  text-decoration: none;
   transition: all 200ms ease-in-out;
 }
