@@ -1,9 +1,9 @@
-body {
-  text-align: center;
+:root {
+  --secondary-color: rgb(84, 83, 83);
 }
 
-.email-to {
-  color: red;
+body {
+  text-align: center;
 }
 
 .find-me {
