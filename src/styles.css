@@ -12,6 +12,12 @@ h3 {
   color: var(--secondary-color);
 }
 
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 60px;
+}
+
 .hello-world,
 .email-to {
   color: var(--primary-color);
