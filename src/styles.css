@@ -85,8 +85,10 @@ p {
 
 .email-me {
   text-decoration: none;
+  font-size: 20px;
 }
 
 .email-to {
+  font-size: 40px;
   margin-bottom: 5px;
 }
