@@ -51,6 +51,11 @@ h3 {
   color: var(--primary-color);
 }
 
+.about-team {
+  display: flex;
+  justify-content: center;
+}
+
 .find-me {
   display: flex;
   justify-content: center;
